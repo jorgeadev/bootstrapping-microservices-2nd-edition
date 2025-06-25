@@ -1,6 +1,6 @@
 # Bootstrapping Microservices 2nd Edition
 
-## Chapter 02 / Example 02
+## Chapter 02 / Example 01
 
 In this repository will be stored folders, files and projects from Bootstrapping Microservices Second Edition book
 
