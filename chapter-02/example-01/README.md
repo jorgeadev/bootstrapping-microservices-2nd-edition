@@ -4,9 +4,9 @@ In this repository will be stored folders, files and projects from Bootstrapping
 
 ### Getting Started
 ```bash
-	# Change to the example 01 directory
-	cd chapter-02/example-01
-	
-	# Start the application
-	node --env-file=.env src/index.js
+# Change to the example 01 directory
+cd chapter-02/example-01
+
+# Start the application
+node --env-file=.env src/index.js
 ```
